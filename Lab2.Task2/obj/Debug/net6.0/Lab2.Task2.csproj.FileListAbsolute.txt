@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\bin\Debug\net6.0\Lab2.Task2.exe
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\bin\Debug\net6.0\Lab2.Task2.deps.json
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\bin\Debug\net6.0\Lab2.Task2.runtimeconfig.json
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\bin\Debug\net6.0\Lab2.Task2.dll
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\bin\Debug\net6.0\Lab2.Task2.pdb
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.dll
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\refint\Lab2.Task2.dll
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.pdb
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\Lab2.Task2.genruntimeconfig.cache
+C:\Users\USER\source\repos\Lab2.Task2\Lab2.Task2\obj\Debug\net6.0\ref\Lab2.Task2.dll

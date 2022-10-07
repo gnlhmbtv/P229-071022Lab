@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\bin\Debug\net6.0\taskkk.exe
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\bin\Debug\net6.0\taskkk.deps.json
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\bin\Debug\net6.0\taskkk.runtimeconfig.json
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\bin\Debug\net6.0\taskkk.dll
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\bin\Debug\net6.0\taskkk.pdb
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.dll
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\refint\taskkk.dll
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.pdb
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\taskkk.genruntimeconfig.cache
+C:\Users\USER\source\repos\Lab2.Task2\taskkk\obj\Debug\net6.0\ref\taskkk.dll
